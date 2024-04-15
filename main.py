@@ -6,6 +6,7 @@ def subtract(number1, number2):
 
 def isThisBranch():
     print("This is a branch")
+    print("A7a elzamalek gab goal")
 
 if __name__ == '__main__':
     result1 = add(5, 5)
